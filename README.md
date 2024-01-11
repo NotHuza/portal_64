@@ -13,7 +13,7 @@ Latest current progress video on Youtube:
 
 You can download the ROM here if you own a copy of Portal for PC
 
-[Rom Patcher](https://NotHuza.github.io/RomPatcher.js)
+[Rom Patcher](https://NotHuza.github.io/RomPatcher.js/index.html)
 
 ## Overview
 
